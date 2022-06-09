@@ -1,0 +1,5 @@
+# NodeJs
+/node_modules/
+
+# App
+/salida/*.txt
